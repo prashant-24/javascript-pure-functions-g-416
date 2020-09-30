@@ -1,4 +1,4 @@
-# JavaScript Pure Functions
+# JavaScript Pure Functions - Amazing concept
 
 ## Overview 
 
@@ -18,7 +18,7 @@ _Only 99.1% pure. Amateurs._
 
 A pure function is a function that:
  
-- returns output solely based on its input (the parameters, if there are any);
+- returns output solely based on its input (the parameters, if there are any)
 - is free from any side effects.
 
 For example:
